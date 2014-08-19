@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\05.RemoveNegativeNums\bin\Debug\05.RemoveNegativeNums.exe.config
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\05.RemoveNegativeNums\bin\Debug\05.RemoveNegativeNums.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\05.RemoveNegativeNums\bin\Debug\05.RemoveNegativeNums.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\05.RemoveNegativeNums\bin\Debug\03.SortSequence.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\05.RemoveNegativeNums\bin\Debug\LinearDatStructuresHW.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\05.RemoveNegativeNums\bin\Debug\03.SortSequence.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\05.RemoveNegativeNums\bin\Debug\LinearDatStructuresHW.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\05.RemoveNegativeNums\obj\Debug\05.RemoveNegativeNums.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\05.RemoveNegativeNums\obj\Debug\05.RemoveNegativeNums.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\05.RemoveNegativeNums\obj\Debug\05.RemoveNegativeNums.pdb

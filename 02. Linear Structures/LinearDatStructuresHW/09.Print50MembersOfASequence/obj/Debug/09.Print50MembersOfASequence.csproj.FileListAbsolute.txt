@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\09.Print50MembersOfASequence\bin\Debug\09.Print50MembersOfASequence.exe.config
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\09.Print50MembersOfASequence\bin\Debug\09.Print50MembersOfASequence.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\09.Print50MembersOfASequence\bin\Debug\09.Print50MembersOfASequence.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\09.Print50MembersOfASequence\bin\Debug\03.SortSequence.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\09.Print50MembersOfASequence\bin\Debug\LinearDatStructuresHW.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\09.Print50MembersOfASequence\bin\Debug\03.SortSequence.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\09.Print50MembersOfASequence\bin\Debug\LinearDatStructuresHW.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\09.Print50MembersOfASequence\obj\Debug\09.Print50MembersOfASequence.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\09.Print50MembersOfASequence\obj\Debug\09.Print50MembersOfASequence.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\09.Print50MembersOfASequence\obj\Debug\09.Print50MembersOfASequence.pdb

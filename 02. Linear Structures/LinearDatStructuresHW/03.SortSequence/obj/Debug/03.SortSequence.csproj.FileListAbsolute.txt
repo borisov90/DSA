@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\03.SortSequence\bin\Debug\03.SortSequence.exe.config
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\03.SortSequence\bin\Debug\03.SortSequence.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\03.SortSequence\bin\Debug\03.SortSequence.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\03.SortSequence\bin\Debug\02.ReverseStack.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\03.SortSequence\bin\Debug\LinearDatStructuresHW.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\03.SortSequence\bin\Debug\02.ReverseStack.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\03.SortSequence\bin\Debug\LinearDatStructuresHW.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\03.SortSequence\obj\Debug\03.SortSequence.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\03.SortSequence\obj\Debug\03.SortSequence.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\03.SortSequence\obj\Debug\03.SortSequence.pdb

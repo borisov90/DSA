@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\LinearDatStructuresHW\bin\Debug\LinearDatStructuresHW.exe.config
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\LinearDatStructuresHW\bin\Debug\LinearDatStructuresHW.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\LinearDatStructuresHW\bin\Debug\LinearDatStructuresHW.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\LinearDatStructuresHW\obj\Debug\01.CalculateSequence.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\LinearDatStructuresHW\obj\Debug\LinearDatStructuresHW.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\LinearDatStructuresHW\obj\Debug\LinearDatStructuresHW.pdb

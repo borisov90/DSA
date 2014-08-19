@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\13.DynamicLinkedQueue\bin\Debug\13.DynamicLinkedQueue.exe.config
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\13.DynamicLinkedQueue\bin\Debug\13.DynamicLinkedQueue.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\13.DynamicLinkedQueue\bin\Debug\13.DynamicLinkedQueue.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\13.DynamicLinkedQueue\obj\Debug\13.DynamicLinkedQueue.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\13.DynamicLinkedQueue\obj\Debug\13.DynamicLinkedQueue.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\13.DynamicLinkedQueue\obj\Debug\13.DynamicLinkedQueue.pdb

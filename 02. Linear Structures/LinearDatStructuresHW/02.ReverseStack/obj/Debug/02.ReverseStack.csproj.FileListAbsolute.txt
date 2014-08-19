@@ -1,0 +1,8 @@
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\02.ReverseStack\bin\Debug\02.ReverseStack.exe.config
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\02.ReverseStack\bin\Debug\02.ReverseStack.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\02.ReverseStack\bin\Debug\02.ReverseStack.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\02.ReverseStack\obj\Debug\02.ReverseStack.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\02.ReverseStack\obj\Debug\02.ReverseStack.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\02.ReverseStack\obj\Debug\02.ReverseStack.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\02.ReverseStack\bin\Debug\LinearDatStructuresHW.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\02.ReverseStack\bin\Debug\LinearDatStructuresHW.pdb

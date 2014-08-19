@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\07.CountOccurencies\bin\Debug\07.CountOccurencies.exe.config
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\07.CountOccurencies\bin\Debug\07.CountOccurencies.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\07.CountOccurencies\bin\Debug\07.CountOccurencies.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\07.CountOccurencies\bin\Debug\03.SortSequence.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\07.CountOccurencies\bin\Debug\LinearDatStructuresHW.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\07.CountOccurencies\bin\Debug\03.SortSequence.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\07.CountOccurencies\bin\Debug\LinearDatStructuresHW.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\07.CountOccurencies\obj\Debug\07.CountOccurencies.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\07.CountOccurencies\obj\Debug\07.CountOccurencies.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\07.CountOccurencies\obj\Debug\07.CountOccurencies.pdb

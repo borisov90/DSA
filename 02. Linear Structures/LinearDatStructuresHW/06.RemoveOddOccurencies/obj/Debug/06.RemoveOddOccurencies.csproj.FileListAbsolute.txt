@@ -1,0 +1,12 @@
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\bin\Debug\06.RemoveOddOccurencies.exe.config
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\bin\Debug\06.RemoveOddOccurencies.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\bin\Debug\06.RemoveOddOccurencies.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\bin\Debug\03.SortSequence.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\bin\Debug\05.RemoveNegativeNums.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\bin\Debug\LinearDatStructuresHW.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\bin\Debug\03.SortSequence.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\bin\Debug\05.RemoveNegativeNums.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\bin\Debug\LinearDatStructuresHW.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\obj\Debug\06.RemoveOddOccurencies.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\obj\Debug\06.RemoveOddOccurencies.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\06.RemoveOddOccurencies\obj\Debug\06.RemoveOddOccurencies.pdb

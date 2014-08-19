@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\12.AutoResizableStack\bin\Debug\12.AutoResizableStack.exe.config
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\12.AutoResizableStack\bin\Debug\12.AutoResizableStack.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\12.AutoResizableStack\bin\Debug\12.AutoResizableStack.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\12.AutoResizableStack\obj\Debug\12.AutoResizableStack.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\12.AutoResizableStack\obj\Debug\12.AutoResizableStack.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\12.AutoResizableStack\obj\Debug\12.AutoResizableStack.pdb

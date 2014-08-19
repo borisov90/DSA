@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\11.PseudoLinkedList\bin\Debug\11.PseudoLinkedList.exe.config
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\11.PseudoLinkedList\bin\Debug\11.PseudoLinkedList.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\11.PseudoLinkedList\bin\Debug\11.PseudoLinkedList.pdb
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\11.PseudoLinkedList\obj\Debug\11.PseudoLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\11.PseudoLinkedList\obj\Debug\11.PseudoLinkedList.exe
+C:\Users\Georgi\Desktop\DSA\02. Linear Structures\LinearDatStructuresHW\11.PseudoLinkedList\obj\Debug\11.PseudoLinkedList.pdb
